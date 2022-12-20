@@ -4,7 +4,7 @@ Konveyor uzerinden gelen mermerleri boşaltma robotu,üzerindeki rulo ile alır 
 
 --> Birinci klasörde boşaltma robotunun PLC ve HMI yazılımı bulunur.
 
---> İkinci klasörde boşaltma robotunun çalışma videosu bulunur.Video indirilmelidir. (74 MB ve 42 sn).
+--> İkinci klasörde boşaltma robotunun çalışma videosu bulunur.Video indirilmelidir. (74 MB ve 42 sn)
 
 --> Üçüncü klasörde projeye hızlı bakış için boşaltma robotunun PLC ve HMI yazılımının 16 fotoğrafı bulunur.
 
