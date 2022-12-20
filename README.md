@@ -15,10 +15,10 @@ Konveyor uzerinden gelen mermerleri boşaltma robotu,üzerindeki rulo ile alır 
 !-> HMI yazılımını çalıştırabilmek için "EasyAccess" yazılımı indirilmelidir.
 
 
-******************************************************************************************************************
+***********************************************************************************************************************
 
 
-Unloading robot gets the marbles which comes on the conveyor belt thanks to on its roll and puts them on rotating table.
+Unloading robot gets the marbles which comes on the conveyor belt thanks to on its roll and puts them on the rotating table.
 
 --> First folder contains PLC and HMI Software of Unloading Robot.
 
