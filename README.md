@@ -18,7 +18,8 @@ Konveyor uzerinden gelen mermerleri boşaltma robotu,üzerindeki rulo ile alır 
 ***********************************************************************************************************************
 
 
-Unloading robot gets the marbles which comes on the conveyor belt thanks to on its roll and puts them on the rotating table.
+Unloading robot gets the marbles which comes on the conveyor belt 
+thanks to its roll which is on it and puts them on the rotating table.
 
 --> First folder contains PLC and HMI Software of Unloading Robot.
 
