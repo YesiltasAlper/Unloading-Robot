@@ -8,7 +8,7 @@ Konveyor uzerinden gelen mermerleri boşaltma robotu,üzerindeki rulo ile alır 
 
 --> Üçüncü klasörde projeye hızlı bakış için boşaltma robotunun PLC ve HMI yazılımının 16 fotoğrafı bulunur.
 
---> Dördüncü klasörde boşaltma robotu projesinin 3 fotoğrafı bulunur
+--> Dördüncü klasörde boşaltma robotu projesinin 3 fotoğrafı bulunur.
 
 !-> PLC yazılımını çalıştırabilmek için "Control FPWIN Pro 7" yazılımı indirilmelidir.
 
